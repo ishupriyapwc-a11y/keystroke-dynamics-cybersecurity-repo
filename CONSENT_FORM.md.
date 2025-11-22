@@ -1,0 +1,49 @@
+```markdown
+# Participant Consent Form — Keystroke Dynamics Study (Template)
+
+Project title: Keystroke-Security — Keystroke Dynamics Research
+Principal investigator / contact: [Your name and contact email]
+
+Purpose
+You are invited to participate in a research project that collects typing timing data (keystroke hold times and inter-key flight times) for research into typing behavior and authentication. The purpose is to study behavioral biometric models and improve defensive detection methods.
+
+Voluntary participation
+Your participation is voluntary. You may withdraw at any time without penalty. If you withdraw, your data will be [describe how data will be deleted/anonymized].
+
+What data will be collected
+- Timing of keystrokes for short typed phrases (hold times, flight times).
+- No keystroke content will be stored beyond the required tokens for the experiment (if text content is recorded, it will be anonymized as described below).
+- No screenshots, system logs, passwords, or other sensitive inputs will be collected.
+
+How data will be used
+- Data will be used for research into typing-behavior models and defensive detection methods.
+- Aggregated results (models, plots, anonymized datasets) may be published or shared for research.
+
+Data storage and privacy
+- Raw data will be stored on encrypted storage at [location/service].
+- Identifiers (name, email) will be stored separately from measurement data and replaced with an irreversible ID code.
+- Only authorized project members will have access to the raw data.
+
+Risks and benefits
+- Minimal risk: this study involves typing tasks only. No direct benefits to you are guaranteed.
+- If you feel uncomfortable, you may stop participating at any time.
+
+Data retention and deletion
+- Data will be retained for [time period, e.g., 2 years] unless you request deletion earlier.
+- To request deletion, contact: [contact email] with your assigned participant ID.
+
+Consent (participant to sign)
+By signing below, I confirm that:
+- I am at least 18 years old.
+- I have read and understood the information above.
+- I consent to the collection and use of my keystroke timing data for the purposes described.
+
+Participant name: _______________________
+Participant ID (assigned by researcher): _______________________
+Signature: _______________________
+Date: _______________________
+
+Researcher name: _______________________
+Researcher signature: _______________________
+Date: _______________________
+```
